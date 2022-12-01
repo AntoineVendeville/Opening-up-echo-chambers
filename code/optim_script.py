@@ -2,7 +2,7 @@
 # coding: utf-8
 
 import sys
-from optim_ineq_fct import maxGini_ineq
+from optim_fct import maxGini_ineq
 import numpy as np
 import pickle 
 
